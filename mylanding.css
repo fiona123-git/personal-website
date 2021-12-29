@@ -4,5 +4,9 @@
 }
 
 .nav{
-    display: inline-block;
+    display: block;
+}
+
+body{
+    background-color: light blue;
 }
