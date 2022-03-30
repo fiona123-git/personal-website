@@ -60,7 +60,7 @@ nav{
 
   #footer{
    background-color: rgb(180, 12, 40);
-   position: sticky;
+   position: fixed;
    height: 100px;
    margin-top: auto;
    clear: both;
